@@ -1,0 +1,25 @@
+# Ignore frontend node_modules and build files
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+frontend/node_modules/
+frontend/.env
+backend/node_modules/
+backend/.env
+admin/node_modules/
+admin/.env
+
+
+# Ignore backend node_modules and .env files
+backend/node_modules/
+backend/.env
+
+# Ignore admin node_modules and build files
+admin/node_modules/
+admin/.env
+admin/build/
+
+# Other global ignores
+.DS_Store
+*.log
