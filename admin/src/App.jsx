@@ -10,7 +10,7 @@ import Add from './pages/Add';
 import List from './pages/List';
 import Orders from './pages/Orders';
 
- export const backendUrl = https://e-commerce-website-tpwh.onrender.com
+ export const backendUrl = import.meta.env.VITE_BACKEND_URL
  export const currency = "₹"
 
 function App() {
