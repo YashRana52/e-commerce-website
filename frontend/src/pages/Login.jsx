@@ -46,14 +46,12 @@ function Login() {
   }, [token]);
 
   return (
-    <div className="flex flex-col items-center w-full sm:max-w-lg m-auto">
-    
-
+    <div className="flex flex-col items-center w-full sm:max-w-lg m-auto min-h-[70vh]"> {/* Adjusted height */}
       {/* Welcome Image */}
-      <img src={assets.welcome} alt="Welcome" className="w-full h-48 object-cover mb-6 rounded-lg shadow-lg" />
+      <img src={assets.welcome} alt="Welcome" className="w-full h-48 object-cover mb-6 rounded-lg" />
 
       {/* Login Form */}
-      <form onSubmit={onSubmitHandler} className="flex flex-col items-center w-[90%] sm:max-w-96 gap-4 text-gray-500">
+      <form onSubmit={onSubmitHandler} className="flex flex-col items-center w-[90%] sm:max-w-96 gap-4 text-gray-500 px-6 py-8 bg-white shadow-lg rounded-lg">
         <div className="inline-flex items-center gap-2 mb-2 mt-1">
           <p className="text-3xl">{currentState}</p>
           <hr className="border-none h-[1.5px] w-8 bg-gray-800" />
@@ -63,7 +61,7 @@ function Login() {
             onChange={(e) => setName(e.target.value)}
             value={name}
             type="text"
-            className="w-full px-3 py-2 border border-gray-200"
+            className="w-full px-3 py-2 border border-gray-200 rounded-lg"
             placeholder="Name"
             required
           />
@@ -72,7 +70,7 @@ function Login() {
           onChange={(e) => setEmail(e.target.value)}
           value={email}
           type="email"
-          className="w-full px-3 py-2 border border-gray-200"
+          className="w-full px-3 py-2 border border-gray-200 rounded-lg"
           placeholder="Email"
           required
         />
@@ -80,7 +78,7 @@ function Login() {
           onChange={(e) => setPassword(e.target.value)}
           value={password}
           type="password"
-          className="w-full px-3 py-2 border border-gray-200"
+          className="w-full px-3 py-2 border border-gray-200 rounded-lg"
           placeholder="Password"
           required
         />

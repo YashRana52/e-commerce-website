@@ -3,9 +3,9 @@ import { assets } from '../assets/assets';
 
 function Hero() {
     return (
-        <div className="flex flex-col sm:flex-row items-center border border-gray-300 shadow-lg rounded-lg overflow-hidden my-8">
+        <div className="flex flex-col sm:flex-row items-center border border-gray-300 shadow-lg rounded-lg overflow-hidden my-10"> {/* Adjusted margin for more spacing */}
             {/* Hero Left Side */}
-            <div className="w-full sm:w-1/2 flex flex-col items-center justify-center p-12 bg-gray-100"> {/* Increased padding */}
+            <div className="w-full sm:w-1/2 flex flex-col items-center justify-center p-16 bg-gray-100"> {/* Increased padding */}
                 <div className="text-gray-800 text-center sm:text-left">
                     <div className="flex items-center gap-2 justify-center sm:justify-start mb-2">
                         <div className="w-8 md:w-11 h-[2px] bg-gray-700"></div>
@@ -21,9 +21,9 @@ function Hero() {
                 </div>
             </div>
             
-            {/* Hero Right Side with Reduced Image Height */}
+            {/* Hero Right Side with Increased Image Height */}
             <div className="w-full sm:w-1/2 flex justify-center">
-                <img className="w-auto h-[350px] object-contain" src={assets.hero3} alt="Latest Arrivals" /> {/* Increased height */}
+                <img className="w-auto h-[400px] object-contain" src={assets.hero3} alt="Latest Arrivals" /> {/* Increased image height */}
             </div>
         </div>
     );
