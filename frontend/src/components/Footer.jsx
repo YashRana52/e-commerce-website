@@ -30,15 +30,15 @@ function Footer() {
                     <p className="font-raleway text-xl font-medium mb-5">GET IN TOUCH</p>
                     <ul className="flex flex-col gap-2 text-gray-600">
                         <li className="flex items-center gap-2">
-                            <span role="img" aria-label="phone">📞</span> +91 9569633102
+                            <span role="img" aria-label="phone">📞</span> +91 7084449164
                            
                         </li>
                         <li className="flex items-center gap-2">
-                            <span role="img" aria-label="phone">📞</span> +91 8982542407
+                            <span role="img" aria-label="phone">📞</span> +91 7084449164
                            
                         </li>
                         <li className="flex items-center gap-2">
-                            <span role="img" aria-label="email">✉️</span> yashrana097@gmail.com
+                            <span role="img" aria-label="email">✉️</span>guptaarpit168@gmail.com
                         </li>
                         <li className="flex items-center gap-2">
     <img 
@@ -46,7 +46,7 @@ function Footer() {
         alt="Instagram Logo" 
         className="w-5 h-5" 
     />
-    yash_____rana09
+   arpit _hindu_45
 </li>
 
                     </ul>
@@ -56,7 +56,7 @@ function Footer() {
             {/* Footer Bottom */}
             <div className="mt-10 border-t border-gray-300 pt-5 text-center">
                 <p className="text-sm text-gray-500">
-                    © 2024 yashrana. All Rights Reserved.
+                    © 2025 arpitgupta. All Rights Reserved.
                 </p>
             </div>
         </footer>
