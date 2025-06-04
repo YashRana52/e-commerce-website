@@ -21,12 +21,12 @@ function Contact() {
                     <div>
                         <p className="font-semibold text-2xl text-gray-800">Our Store</p>
                         <p className="text-gray-500">
-                          Bundelkhand  University,  Jhansi <br />
-                           Jhansi, UP
+                         iet lucknow <br />
+                           lucknow, UP
                         </p>
                         <p className="text-gray-500">
-                            📞 +91 7084449164<br />
-                            ✉️guptaarpit168@gmail.com <br />
+                            📞 +91 9569633102<br />
+                            ✉️yashrana097@gmail.com <br />
                             
                         </p>
                     </div>
