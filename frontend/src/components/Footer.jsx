@@ -46,7 +46,7 @@ function Footer() {
         alt="Instagram Logo" 
         className="w-5 h-5" 
     />
-   arpit _hindu_45
+ yash___rana09
 </li>
 
                     </ul>
