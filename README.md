@@ -14,9 +14,9 @@ The project is deployed online on **Vercel** for easy access.
 
 ## 📸 Screenshots
 
-| 🏠 Home Page | 👤 Profile Page | ➕ Create Post | 
+| 🏠 Home Page | 👤 Cart Page | ➕ details Page | 
 |-------------|--------------------|-----------------|
-| ![Home](./screenshots/home.png) | ![ Profile](./screenshots/profile.png) | ![Create Post](./screenshots/post.png) | 
+| ![Home](./screenshots/home.png) | ![ cart](./screenshots/cart.png) | ![Create Post](./screenshots/detail.png) | 
 
 
 
