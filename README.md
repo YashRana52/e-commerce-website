@@ -22,7 +22,7 @@ The project is deployed online on **Vercel** for easy access.
 
 | 💬 Chat Page | 🖼️ Post Page | 💭 Comments Page | 
 |--------------|--------------|-----------------|
-| ![Home](./screenshots/chat.png) | ![ Profile](./screenshots/post2.png) | ![Create Post](./screenshots/commnet.png) |
+| ![Login Page](./screenshots/login.png) | ![Order Page](./screenshots/order.png) | ![Payment Page](./screenshots/payment.png) |
 
 
 ---
