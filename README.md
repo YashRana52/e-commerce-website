@@ -14,15 +14,13 @@ The project is deployed online on **Vercel** for easy access.
 
 ## 📸 Screenshots
 
-| 🏠 Home Page | 👤 Cart Page | ➕ details Page | 
-|-------------|--------------------|-----------------|
-| ![Home](./screenshots/home.png) | ![ cart](./screenshots/cart.png) | ![Create Post](./screenshots/detail.png) | 
+| 🏠 Home Page | 🛒 Cart Page | 📄 Details Page | 
+|--------------|-------------|-----------------|
+| ![Home](./screenshots/home.png) | ![Cart](./screenshots/cart.png) | ![Details](./screenshots/detail.png) |
 
-
-
-| 💬 Chat Page | 🖼️ Post Page | 💭 Comments Page | 
+| 🔐 Login Page | 📦 Order Page | 💳 Payment Page | 
 |--------------|--------------|-----------------|
-| ![Login Page](./screenshots/login.png) | ![Order Page](./screenshots/order.png) | ![Payment Page](./screenshots/payment.png) |
+| ![Login](./screenshots/login.png) | ![Order](./screenshots/order.png) | ![Payment](./screenshots/payment.png) |
 
 
 ---
